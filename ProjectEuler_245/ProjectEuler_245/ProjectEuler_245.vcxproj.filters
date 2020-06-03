@@ -18,12 +18,12 @@
     <ClCompile Include="ConsoleClient.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PrimeNumbersManipulation.cpp">
+    <ClCompile Include="SequenceOfPrime.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="PrimeNumbersManipulation.h">
+    <ClInclude Include="SequenceOfPrime.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

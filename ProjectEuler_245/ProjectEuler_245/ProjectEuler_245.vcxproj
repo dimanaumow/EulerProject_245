@@ -140,10 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleClient.cpp" />
-    <ClCompile Include="PrimeNumbersManipulation.cpp" />
+    <ClCompile Include="SequenceOfPrime.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="PrimeNumbersManipulation.h" />
+    <ClInclude Include="SequenceOfPrime.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
